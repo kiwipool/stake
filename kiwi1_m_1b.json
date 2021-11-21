@@ -1,7 +1,7 @@
 {
-	"name": "KIWI by Kiwipool Staking",
+	"name": "KIWI1 by Kiwipool Staking",
 	"ticker": "KIWI",
 	"description": "#SundaeSwap ISO Stakepool | Est 2019 | ITN #OG | Together, WE are Kiwipool Staking",
 	"homepage": "https://www.kiwipool.org",
-	"extended": "https://raw.githubusercontent.com/kiwipool/stake/main/kiwi_e_1a.json"
+	"extended": "https://raw.githubusercontent.com/kiwipool/stake/main/kiwi1_e_1a.json"
 }
