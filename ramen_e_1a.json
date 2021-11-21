@@ -1,0 +1,69 @@
+{
+    "itn": {
+    "owner": "",
+    "witness": ""
+        },
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/kiwipool/stn/e/kiwi-sign-64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/kiwipool/stake/kiwi-sign.png",
+        "location": "New Zealand",
+        "social": {
+            "twitter_handle": "kiwipool2",
+            "telegram_handle": "joinchat/O0DxVEvBz6AJGInfB_wMcw",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Foundational Cardano Stakepool established the first week of the ITN in 2019. Official #SundaeSwap ISO Stakepool - EARN SundaeSwap Tokens!!!",
+            "server": "Proudly run on Baremetal backed by Cloud. Fibre WAN with Enterprize-grade Network Equipment backed up by multi-UPS. 24/7 Monitoring & Alerting",
+            "company": "Together, WE are Kiwipool Staking"
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "2523d71a1bd6376804e0bace048289a63455eb6340db81e616a11f9c",
+        "1": "921dc3fc11681ad9ccde08c9bc23041808f4b7e8ba231be557db8ab5",
+        "2": "60397646d7d1ad6fe2ddccfe7efc9cba61f6d3d94d29e8f41de73240"
+    },
+    "when-satured-then-recommend": {
+        "0": "921dc3fc11681ad9ccde08c9bc23041808f4b7e8ba231be557db8ab5",
+        "1": "60397646d7d1ad6fe2ddccfe7efc9cba61f6d3d94d29e8f41de73240",
+        "2": "f059ed9ef469a045d29c0f48799fb6cab08c0abbc0fd1f736a5fced5",
+        "3": "e00ff546b17eb7ed726411edc74eccdad9d176d0d338c21a3d8daf34",
+        "4": "061ae3f2d469737fb6f8c10aad70e7d02e37f8dd8d2a41dbbb6b72f0"
+    },
+    "telegram-admin-handle": {
+        "0": "kiwipool"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "1": {
+                "name": "",
+                "type": "",
+                "key": ""
+            },
+            "2": {
+                "name": "",
+                "type": "",
+                "key": ""
+            }
+        }
+    }
+}
+
