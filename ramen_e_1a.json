@@ -4,8 +4,8 @@
     "witness": ""
         },
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/kiwipool/stn/e/kiwi-sign-64x64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/kiwipool/stake/kiwi-sign.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/kiwipool/stake/main/kiwi-sign-64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/kiwipool/stake/main/kiwi-sign.png",
         "location": "New Zealand",
         "social": {
             "twitter_handle": "kiwipool2",
