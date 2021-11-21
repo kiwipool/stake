@@ -4,8 +4,8 @@
     "witness": "ed25519_sig1ecyuxhe25qt77fsytuzsq3ws4g4zagpg0vptklnfkf2sel42ul6e65mtcfef58w2d73unmyznkkzkc4324a2gulu9m5tkjkqxwra5qgfyx6sk"
         },
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/kiwipool/stake/kiwi-sign-64x64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/kiwipool/stake/kiwi-sign.png",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/kiwipool/stake/main/kiwi-sign-64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/kiwipool/stake/main/kiwi-sign.png",
         "location": "New Zealand",
         "social": {
             "twitter_handle": "kiwipool2",
