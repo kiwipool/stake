@@ -1,0 +1,13 @@
+#Extended Metadata
+
+KIWI
+https://raw.githubusercontent.com/kiwipool/stake/main/kiwi_e_1a.json
+https://tinyurl.com/2p7kejhp
+
+KIWI1
+https://raw.githubusercontent.com/kiwipool/stake/main/kiwi1_e_1a.json
+https://tinyurl.com/3vvjmz5k
+
+RAMEN
+https://raw.githubusercontent.com/kiwipool/stake/main/ramen_e_1a.json
+https://tinyurl.com/323bx3hu
