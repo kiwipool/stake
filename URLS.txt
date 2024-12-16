@@ -1,16 +1,16 @@
-#Mainnet Master
+#Mainnet Master from Dec24
 
 KIWI
-https://raw.githubusercontent.com/kiwipool/stake/main/kiwi_m_1c.json
-https://tinyurl.com/42yrvsw8
+https://raw.githubusercontent.com/kiwipool/stake/main/kiwi_m_1d.json
+https://tinyurl.com/5u8t4nna
 
 KIWI1
-https://raw.githubusercontent.com/kiwipool/stake/main/kiwi1_m_1c.json
-https://tinyurl.com/p23jcshm
+https://raw.githubusercontent.com/kiwipool/stake/main/kiwi1_m_1d.json
+https://tinyurl.com/29m454h4
 
 RAMEN
-https://raw.githubusercontent.com/kiwipool/stake/main/ramen_m_1c.json
-https://tinyurl.com/su2cj8an
+https://raw.githubusercontent.com/kiwipool/stake/main/ramen_m_1d.json
+https://tinyurl.com/2s3pzha6
 
 
 #Extended Metadata
@@ -26,3 +26,21 @@ https://tinyurl.com/3vvjmz5k
 RAMEN
 https://raw.githubusercontent.com/kiwipool/stake/main/ramen_e_1a.json
 https://tinyurl.com/323bx3hu
+
+
+
+#ARCHIVED BELOW
+
+#Mainnet Master - prior to Dec 24
+
+KIWI
+https://raw.githubusercontent.com/kiwipool/stake/main/kiwi_m_1c.json
+https://tinyurl.com/42yrvsw8
+
+KIWI1
+https://raw.githubusercontent.com/kiwipool/stake/main/kiwi1_m_1c.json
+https://tinyurl.com/p23jcshm
+
+RAMEN
+https://raw.githubusercontent.com/kiwipool/stake/main/ramen_m_1c.json
+https://tinyurl.com/su2cj8an
