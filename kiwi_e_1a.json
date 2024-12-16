@@ -26,7 +26,7 @@
         },
         "about": {
             "me": "🥝Kiwipool Staking is a 'foundational' Cardano Stakepool established in the first week of Cardano's Incentivised Testnet (ITN) in 2019. We are a 🍨SundaeSwap Scooper, we operate Stakepools and 🛡️Mithril Signers in all of Cardano's Testnets and a 🕛Midnight Validator on Preview. With resilient systems backed by 📡Starlink and ☀️Solar Power we're here for good!",
-            "server": "xxx",
+            "server": "With a focus on 'Geographical Decentralisation' and resilience we proudly run on Baremetal in 🇳🇿 NZ with business-grade Fibre WAN and Enterprise-grade Network Equipment. To ensure the highest levels of resilience we operate multiple failover systems. Plan A consists of our powerful NZ-based Baremetal hardware combined with both baremetal and cloud relays spread across the planet. Plan B is our first failover system operating on powerful hardware in the cloud with both baremetal and cloud relays. Should we need Plan C, we have it in the form of energy-efficient baremetal hardware at our bunker in 🇳🇿 NZ offering 📡Starlink internet connectivity with ☀️Solar Power, 🔋Backup Batteries, ⚡️Generator and ⛽️Fuel. We operate a multitude of relays - baremetal & cloud, public and private (unpublished) to ensure the best propagation of our blocks from our geographically-decentralised location. Choosing a good Cardano stakepool is as simple as ABC and we've got you covered.",
             "company": "Together, WE are Kiwipool Staking"
         },
         "rss": ""
